@@ -20,12 +20,10 @@ class ViewController: UIViewController {
     RainBow.rowHeight = view.frame.height/CGFloat(colors.count)
         print(colors.count)
     
-        // why does not accept a vriable has int value,
-      //  RainBow.rowHeight = view.frame.height/10  // but accept numbers
+     
+      //  RainBow.rowHeight = view.frame.height/10  
         
         // Do any additional setup after loading the view.
-    
-
 
 }
 
